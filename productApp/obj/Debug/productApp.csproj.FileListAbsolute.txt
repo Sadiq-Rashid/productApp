@@ -1,0 +1,17 @@
+D:\productApp\productApp\bin\productApp.dll.config
+D:\productApp\productApp\bin\productApp.dll
+D:\productApp\productApp\bin\productApp.pdb
+D:\productApp\productApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\productApp\productApp\bin\Newtonsoft.Json.dll
+D:\productApp\productApp\bin\System.Net.Http.Formatting.dll
+D:\productApp\productApp\bin\System.Web.Http.dll
+D:\productApp\productApp\bin\System.Web.Http.WebHost.dll
+D:\productApp\productApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\productApp\productApp\bin\Newtonsoft.Json.xml
+D:\productApp\productApp\bin\System.Net.Http.Formatting.xml
+D:\productApp\productApp\bin\System.Web.Http.xml
+D:\productApp\productApp\bin\System.Web.Http.WebHost.xml
+D:\productApp\productApp\obj\Debug\productApp.csprojResolveAssemblyReference.cache
+D:\productApp\productApp\obj\Debug\productApp.csproj.CoreCompileInputs.cache
+D:\productApp\productApp\obj\Debug\productApp.dll
+D:\productApp\productApp\obj\Debug\productApp.pdb
